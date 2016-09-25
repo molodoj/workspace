@@ -2,5 +2,6 @@ var
   i: integer;
 
 begin
-  readln(i);
+  i:=10;
+  writeln(i)
 end.
